@@ -1,21 +1,12 @@
-package design.pattern.template;
-
-import design.pattern.template.pizza.HawaiiPizza;
-import design.pattern.template.pizza.PepperoniPizza;
+package design.pattern.visitor;
 
 /**
- * Class that will run the pizza program
+ * TODO
  */
-public class TemplateRunner {
+public class VisitorRunner {
 
     public static void main(String... args) {
 
-        System.out.println("Making the Peperoni pizza....");
-        new PepperoniPizza().makePizza();
-        System.out.println("Pizza is ready....");
-
-        System.out.println("Making the Hawaii pizza....");
-        new HawaiiPizza().makePizza();
-        System.out.println("Pizza is ready....");
+        //TODO
     }
 }
